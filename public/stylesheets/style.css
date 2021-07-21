@@ -6,3 +6,12 @@ body {
 a {
   color: #00B7FF;
 }
+body {
+  background-image: url('https://camblab.info/wp-content/uploads/2017/02/pool-water.jpg') ;
+}
+
+img {
+  border-radius: 250px;
+  background-image: url('https://www.abc27.com/wp-content/uploads/sites/55/2021/04/210411_PaHouseFire.jpeg?w=1280') ; 
+   background-size: cover;
+}
